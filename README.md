@@ -10,7 +10,7 @@ Tools yang digunakan :
 -- Sumber : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html
 -- Sumber : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html
 
-#3 Grafik
+## Grafik
 
 ![Prediksi peramalan pesawat datang dan berangkat dari mancanegara maupun domestik tahun 2005-2025](https://github.com/user-attachments/assets/a5945054-be25-47d6-9b52-5e2ec28088ee)
 
