@@ -3,12 +3,12 @@ Prediksi ini bertujuan untuk mengetahui kedatangan dan keberangkatan penumpang b
 
 ## Tools
 Tools yang digunakan :
--- Excel untuk membersihkan data
--- RStudio untuk memproses dan menganalisis data
+- Excel untuk membersihkan data
+- RStudio untuk memproses dan menganalisis data
 
 ## Sumber Data
--- Sumber : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html
--- Sumber : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html
+- Sumber : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html
+- Sumber : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html
 
 ## Grafik
 
