@@ -24,7 +24,7 @@ Tools yang digunakan :
 - Menggunakan ggplot2 untuk memberikan hasil visualisasi perjalanan penumpang yang berangkat dan datang dari domestik maupun mancanegara.
 
 (3) Uji ADF (Augmented Dickey Fuller)
-Uji ini bertujuan untuk memberikan hasil stasioner pada data yang akan dianalisis sehingga jika P-Value > 0.05 melakukan differencing.
+- Uji ini bertujuan untuk memberikan hasil stasioner pada data yang akan dianalisis sehingga jika P-Value > 0.05 melakukan differencing.
 
 (4) Model VAR (Vector AutoRegression)
 - Menentukan jumlah lag yang optimal.
