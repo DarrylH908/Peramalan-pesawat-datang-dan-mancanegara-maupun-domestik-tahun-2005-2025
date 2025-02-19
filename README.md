@@ -1,5 +1,5 @@
 ## Prediksi Penumpang Datang dan Berangkat dari Mancanegara maupun Domestik Tahun 2005-2025
-Prediksi ini bertujuan untuk mengetahui kedatangan dan keberangkatan penumpang baik dari dalam Negeri maupun luar negeri tahun 2005-2025, Menggunakan metode VAR (Vector Autoregression), jumlah observasinya adalah dari tahun 2003-2025 tetapi setelah didifferencing jadi memakai tahun 2005-2025.
+Prediksi ini bertujuan untuk mengetahui kedatangan dan keberangkatan penumpang baik dari dalam Negeri maupun luar negeri tahun 2005-2025, Menggunakan metode VAR (Vector AutoRegression), jumlah observasinya adalah dari tahun 2003-2025 tetapi setelah didifferencing jadi memakai tahun 2005-2025.
 
 ## Tools
 Tools yang digunakan :
