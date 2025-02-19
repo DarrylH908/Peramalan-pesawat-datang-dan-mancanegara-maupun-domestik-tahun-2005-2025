@@ -3,8 +3,8 @@ Prediksi ini bertujuan untuk mengetahui kedatangan dan keberangkatan penumpang b
 
 ## Tools
 Tools yang digunakan :
-- Excel untuk membersihkan data
-- RStudio untuk memproses dan menganalisis data
+- Excel untuk membersihkan data.
+- RStudio untuk memproses dan menganalisis data.
 
 ## Sumber Data
 - Sumber : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html
@@ -13,5 +13,42 @@ Tools yang digunakan :
 ## Grafik
 
 ![Prediksi peramalan pesawat datang dan berangkat dari mancanegara maupun domestik tahun 2005-2025](https://github.com/user-attachments/assets/a5945054-be25-47d6-9b52-5e2ec28088ee)
+
+## Metode Analisis
+(1) Impor dan Pembersihan Data
+- Mengahpus kolom yang tidak diperlukan.
+- Menggabungkan Dataset berdasarkan tahun.
+- Melakukan rename untuk kolom supaya mudah dianalisis.
+
+(2) Visualisasi Data
+- Menggunakan ggplot2 untuk memberikan hasil visualisasi perjalanan penumpang yang berangkat dan datang dari domestik maupun mancanegara.
+
+(3) Uji ADF (Augmented Dickey Fuller)
+Uji ini bertujuan untuk memberikan hasil stasioner pada data yang akan dianalisis sehingga jika P-Value > 0.05 melakukan differencing.
+
+(4) Model VAR (Vector AutoRegression)
+- Menentukan jumlah lag yang optimal.
+- Membangun model berdasarkan data yang sudah didifferencing.
+- Menginterpretasikan hasil model.
+
+(5) Impulse Response Function (IRF)
+- Uji ini bertujuan untuk melihat perubahan pada variabel yang mempenagruhi variabel lainnya pada sistem.
+
+(6) Uji kausalitas Granger (Granger Causality)
+- Menguji hubungan sebab akibat antara jumlah penumpang yang berangkat dan datang dari domestik maupun mancanegara.
+
+## Hasil dan Kesimpulan
+- Berdasarkan hasil diatas pada model VAR tidak ditemukan hubungan kausalitas antara penumpang yang berangkat dan datang dari mancanegara maupun domestik.
+- Prediksi ini menunjukkan tren yang akan datang pada penumpang yang akan melakukan perjalanan domestik maupun mancanegara sekaligus yang akan datang juga.
+
+## Insight Bisnis
+Dari hasil diatas keputusan yang akan dilakukan adalah harus :
+- Memodernisasi tampilan bandara.
+- Memurahkan harga tiket dengan menurunkan harga avtur dan memperbanyak pesawat.
+- Memperpanjang landasan pacu yang memuat lebih banyak pesawat misal pesawat Airbus 380.
+- Membuat ruang tunggu yang nyaman sebelum berangkat.
+- Memaksimalkan pelayanan pada loket tiket pesawat yang akan dituju penumpang serta memodernisasi sistem informasi manajemen bandara dan maskapai.
+
+
 
 
