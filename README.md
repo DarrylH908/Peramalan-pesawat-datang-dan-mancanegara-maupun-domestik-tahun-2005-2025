@@ -1,5 +1,5 @@
 ## Prediksi Penumpang Datang dan Berangkat dari Mancanegara maupun Domestik Tahun 2005-2025
-Prediksi ini bertujuan untuk mengetahui kedatangan dan keberangkatan penumpang baik dari dalam Negeri maupun luar negeri tahun 2005-2025, Menggunakan metode VAR (Vector Autoregressive), jumlah observasinya adalah dari tahun 2003-2025 tetapi setelah didifferencing jadi memakai tahun 2005-2025.
+Prediksi ini bertujuan untuk mengetahui kedatangan dan keberangkatan penumpang baik dari dalam Negeri maupun luar negeri tahun 2005-2025, Menggunakan metode VAR (Vector Autoregression), jumlah observasinya adalah dari tahun 2003-2025 tetapi setelah didifferencing jadi memakai tahun 2005-2025.
 
 ## Tools
 Tools yang digunakan :
@@ -43,12 +43,17 @@ Uji ini bertujuan untuk memberikan hasil stasioner pada data yang akan dianalisi
 
 ## Insight Bisnis
 Dari hasil diatas keputusan yang akan dilakukan adalah harus :
-- Memodernisasi tampilan bandara.
-- Memurahkan harga tiket dengan menurunkan harga avtur dan memperbanyak pesawat.
-- Memperpanjang landasan pacu yang memuat lebih banyak pesawat misal pesawat Airbus 380.
-- Membuat ruang tunggu yang nyaman sebelum berangkat.
-- Memaksimalkan pelayanan pada loket tiket pesawat yang akan dituju penumpang serta memodernisasi sistem informasi manajemen bandara dan maskapai.
-
+(1) Memodernisasi tampilan bandara.
+- Memperbaharui tampilan bandara di berbagai pelosok negeri dengan menyewa konsultan jasa arsitektur lokal maupun asing sehingga desain dan interior menarik bagi penumpang.
+(2) Memurahkan harga tiket.
+- Menekan biaya operasioanal seperti menurunkan harga avtur maupun meningkatkan efisiensi penggunaan pesawat. 
+(3) Memperpanjang landasan pacu.
+- Memperpanjang landasan pacu sehingga dapat digunakan untuk memuat pesawat berukuran besar seperti Airbus 380.
+(4) Memaksimalkan pelayanan.
+- Membuat ruang nyaman dengan desain modern supaya penumpang betah menunggu ketika pesawat delay.
+- Membuat setiap ruang bermain bagi anak anak dibawah 10 tahun tetapi dekat dengan gate penerbangan yang akan dituju supaya tidak bosan menunggu lama.
+- Memaksimalkan loket check in dan pelayanan maskapai.
+- Memodernisasi sistem informasi manajemen bandara dan maskapai sehingga tidak ada yang saling berbenturan sistemnya.
 
 
 
