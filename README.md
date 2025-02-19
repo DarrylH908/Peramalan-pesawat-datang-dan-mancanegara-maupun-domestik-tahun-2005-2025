@@ -43,13 +43,13 @@ Tools yang digunakan :
 
 ## Insight Bisnis
 Dari hasil diatas keputusan yang akan dilakukan adalah harus :
-(1) Memodernisasi tampilan bandara.
+(1.) Memodernisasi tampilan bandara.
 - Memperbaharui tampilan bandara di berbagai pelosok negeri dengan menyewa konsultan jasa arsitektur lokal maupun asing sehingga desain dan interior menarik bagi penumpang.
-(2) Memurahkan harga tiket.
+(2.) Memurahkan harga tiket.
 - Menekan biaya operasioanal seperti menurunkan harga avtur maupun meningkatkan efisiensi penggunaan pesawat. 
-(3) Memperpanjang landasan pacu.
+(3.) Memperpanjang landasan pacu.
 - Memperpanjang landasan pacu sehingga dapat digunakan untuk memuat pesawat berukuran besar seperti Airbus 380.
-(4) Memaksimalkan pelayanan.
+(4.) Memaksimalkan pelayanan.
 - Membuat ruang nyaman dengan desain modern supaya penumpang betah menunggu ketika pesawat delay.
 - Membuat setiap ruang bermain bagi anak anak dibawah 10 tahun tetapi dekat dengan gate penerbangan yang akan dituju supaya tidak bosan menunggu lama.
 - Memaksimalkan loket check in dan pelayanan maskapai.
