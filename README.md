@@ -8,7 +8,7 @@ Tools yang digunakan :
 
 ## Sumber Data
 - Sumber : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html
-- Sumber : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html
+- Sumber : https://www.bps.go.id/id/statistics-table/1/MTQwMyMx/lalu-lintas-penerbangan-luar-negeri-indonesia-tahun-2003-2022.html
 
 ## Grafik
 
